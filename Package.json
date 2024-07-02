@@ -1,0 +1,16 @@
+{
+  "name": "social-network-api",
+  "version": "1.0.0",
+  "description": "A Social Network API to Connect With Friends and Share Your Thoughts!",
+  "main": "Server.js",
+  "scripts": {
+    "start": "node Server.js"
+  },
+  "dependencies": {
+    "express": "^4.17.1",
+    "mongoose": "^8.4.0"
+  },
+  "keywords": ["Social Media", "Social Network", "API", "Media", "Social"],
+  "author": "Emily Simone",
+  "license": "MIT"
+}
