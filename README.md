@@ -76,7 +76,7 @@ Installation Steps
 
 ### Technologies
 
-[![Node Badge](https://img.shields.io/badge/Node.js-v20.13.0-Pink?logo=node.js&logoColor=FFFFFF&labelColor=3A3B3C&color=F778A1)](https://nodejs.org/en) [![Inquirer Badge](https://img.shields.io/badge/Inquirer-v8.2.4-Pink?logo=npm&logoColor=FFFFFF&labelColor=3A3B3C&color=F778A1)](https://www.npmjs.com/package/inquirer)
+[![Express Badge](https://img.shields.io/badge/Express.js-v4.17.1-Pink?logo=express&logoColor=FFFFFF&labelColor=3A3B3C&color=F778A1)](https://nodejs.org/en) [![Mongoose Badge](https://img.shields.io/badge/Mongoose-v8.4.0-Pink?logo=mongoose&logoColor=FFFFFF&labelColor=3A3B3C&color=F778A1)](https://www.npmjs.com/package/inquirer)
 
 Technologies Used During Build
 
